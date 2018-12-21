@@ -1,0 +1,17 @@
+<div class="row">
+  <div class="col-xs-12">
+    <p>Add new Servers or blueprints!</p>
+    <label>Server Name</label>
+    <input type="text" class="form-control" #serverNameReference>
+    <label>Server Content</label>
+    <!--<input type="text" class="form-control" [(ngModel)]="newServerContent">    TAK TEZ MOZNA TO JEST Property Binding-->
+    <input type="text" class="form-control" #nazwaReferencji>
+    <br>
+    <button
+      class="btn btn-primary"
+      (click)="onAddServer(serverNameReference)">Add Server</button>
+    <button
+      class="btn btn-primary"
+      (click)="onAddBlueprint(serverNameReference)">Add Server Blueprint</button>
+  </div>
+</div>
