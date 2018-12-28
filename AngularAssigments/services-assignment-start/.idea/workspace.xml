@@ -1,67 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26812df7-1924-4008-ac52-021eba73299e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe.model.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe.model.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-edit/shopping-edit.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-list.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/shopping-list/shopping-list.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/services-start.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/.editorconfig" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/angular.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/e2e/protractor.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/e2e/src/app.e2e-spec.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/e2e/src/app.po.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/e2e/tsconfig.e2e.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/how-to-use.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/package-lock.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/package.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/account/account.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/account/account.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/account/account.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/accounts.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/app.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/app.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/app.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/app.module.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/logging.service.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/new-account/new-account.component.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/new-account/new-account.component.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/app/new-account/new-account.component.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/assets/.gitkeep" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/browserslist" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/environments/environment.prod.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/environments/environment.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/karma.conf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/main.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/polyfills.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/test.ts" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/tsconfig.app.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/tsconfig.spec.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/src/tslint.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/tsconfig.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../services-start/services-start/tslint.json" beforeDir="false" />
-    </list>
+    <list default="true" id="26812df7-1924-4008-ac52-021eba73299e" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -247,6 +187,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24986821" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
