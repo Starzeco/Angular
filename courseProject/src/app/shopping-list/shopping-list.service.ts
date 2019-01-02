@@ -1,8 +1,9 @@
 import { Ingredient } from '../shared/ingredient.model';
-import { EventEmitter } from '@angular/core';
+
+import { Subject } from 'rxjs/Subject';
 
 export class ShoppingListService {
-  ingredienrsChanged = new EventEmitter<Ingredient[]>();
+  ingredienrsChanged = new Subject<Ingredient[]>();
 
   private ingredients: Ingredient[] = [
     new Ingredient('Apples', 5),
@@ -15,7 +16,7 @@ export class ShoppingListService {
 
   onAdd(ing: Ingredient) {
     this.ingredients.push(ing);
-    this.ingredienrsChanged.emit(this.ingredients.slice()); // Informujemy komponenty które słuchają o tym, że tablica w serwisie została
+    this.ingredienrsChanged.next(this.ingredients.slice()); // Informujemy komponenty które słuchają o tym, że tablica w serwisie została
                                                                 // zaktualizowana i przesyłamy najnowszą kopie
   }
   addIngredients(ingredients: Ingredient[]) {
@@ -24,6 +25,6 @@ export class ShoppingListService {
     }*/
     this.ingredients.push(...ingredients);    // ALE TAK LEPIEJ czyli ...Lista podzieli tam liste na pojedyncze
                                               // elementy z listy, a metoda push może przyjąc wiele elementow
-    this.ingredienrsChanged.emit(this.ingredients.slice());
+    this.ingredienrsChanged.next(this.ingredients.slice());
   }
 }

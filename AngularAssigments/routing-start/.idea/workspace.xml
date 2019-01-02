@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="20224797-6ca2-4068-afd3-86c5fce5c1c4" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app-routing.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app-routing.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/routing-start/src/app/servers/server/server.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/app.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/app.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/app.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/app.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/app.module.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/app.module.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/header/header.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/header/header.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/header/header.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/header/header.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-detail/recipe-detail.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-item/recipe-item.component.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe-list/recipe-list.component.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe.service.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipe.service.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../courseProject/src/app/recipes/recipes.component.html" afterDir="false" />
-    </list>
+    <list default="true" id="20224797-6ca2-4068-afd3-86c5fce5c1c4" name="Default Changelist" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -299,12 +282,12 @@
       <workItem from="1546004419565" duration="11919000" />
       <workItem from="1546187767760" duration="3333000" />
       <workItem from="1546191138605" duration="1675000" />
-      <workItem from="1546424072987" duration="4447000" />
+      <workItem from="1546424072987" duration="4641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21964000" />
+    <option name="totallyTimeSpent" value="22158000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1920" height="1044" extended-state="6" />
