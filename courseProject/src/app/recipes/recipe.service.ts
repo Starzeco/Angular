@@ -25,6 +25,9 @@ export class RecipeService {
   getRecipes() {
     return this.recipes.slice(); // użycie na tym slice()zwróci nam kopie tej listy,bez tego operowalibyśmy na referencji na prawdziwą liste
   }
+  getRecipe(index: number) {
+    return this.recipes[index];
+  }
 
   addIngredientsToShoppingList(ingredients: Ingredient[]) {
     this.shoppingListService.addIngredients(ingredients);
